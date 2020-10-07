@@ -11,10 +11,14 @@
 - [Usage](#usage)
 <!-- tocstop -->
 
-# Usage
+## Getting Started
 
-```sh-session
-$ npm install -g laranew
-$ laranew [PROJECT]
-...
+```bash
+npm install -g laranew
+```
+
+## Usage
+
+```bash
+laranew [PROJECT]
 ```
