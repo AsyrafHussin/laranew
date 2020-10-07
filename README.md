@@ -9,12 +9,9 @@
 
 - [laranew](#laranew)
 - [Usage](#usage)
-- [Commands](#commands)
 <!-- tocstop -->
 
 # Usage
-
-<!-- usage -->
 
 ```sh-session
 $ npm install -g laranew
