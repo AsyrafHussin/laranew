@@ -7,6 +7,7 @@
 
 <!-- toc -->
 
+- [laranew](#laranew)
 - [Usage](#usage)
 - [Commands](#commands)
 <!-- tocstop -->
@@ -17,20 +18,6 @@
 
 ```sh-session
 $ npm install -g laranew
-$ laranew COMMAND
-running command...
-$ laranew (-v|--version|version)
-laranew/0.0.0 darwin-x64 node-v14.13.0
-$ laranew --help [COMMAND]
-USAGE
-  $ laranew COMMAND
+$ laranew [PROJECT]
 ...
 ```
-
-<!-- usagestop -->
-
-# Commands
-
-<!-- commands -->
-
-<!-- commandsstop -->
