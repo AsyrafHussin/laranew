@@ -1,5 +1,7 @@
 # laranew
 
+Generate Laravel project based on [Laravel Boilerplate v2](https://github.com/AsyrafHussin/laravel-boilerplate-v2) by Asyraf Hussin
+
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/laranew.svg)](https://npmjs.org/package/laranew)
 [![Downloads/week](https://img.shields.io/npm/dw/laranew.svg)](https://npmjs.org/package/laranew)
@@ -8,7 +10,6 @@
 <!-- toc -->
 
 - [laranew](#laranew)
-- [Usage](#usage)
 <!-- tocstop -->
 
 ## Getting Started
