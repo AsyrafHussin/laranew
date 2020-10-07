@@ -1,9 +1,9 @@
 # laranew
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/laranew2.svg)](https://npmjs.org/package/laranew)
-[![Downloads/week](https://img.shields.io/npm/dw/laranew2.svg)](https://npmjs.org/package/laranew)
-[![License](https://img.shields.io/npm/l/laranew2.svg)](https://github.com/AsyrafHussin/laranew/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/laranew.svg)](https://npmjs.org/package/laranew)
+[![Downloads/week](https://img.shields.io/npm/dw/laranew.svg)](https://npmjs.org/package/laranew)
+[![License](https://img.shields.io/npm/l/laranew.svg)](https://github.com/AsyrafHussin/laranew/blob/master/package.json)
 
 <!-- toc -->
 
@@ -16,7 +16,7 @@
 <!-- usage -->
 
 ```sh-session
-$ npm install -g laranew2
+$ npm install -g laranew
 $ laranew COMMAND
 running command...
 $ laranew (-v|--version|version)
