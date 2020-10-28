@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="screenshot.png" width="450" />
+</div>
+
 # laranew
 
 Generate Laravel project based on [Laravel Boilerplate v2](https://github.com/AsyrafHussin/laravel-boilerplate-v2) by Asyraf Hussin
