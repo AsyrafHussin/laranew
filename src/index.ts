@@ -1,6 +1,7 @@
 import {Command, flags} from '@oclif/command';
 import {cd, exec} from 'shelljs';
 const figlet = require('figlet');
+const {version} = require('../package.json');
 
 class Laranew extends Command {
   static description = 'Generate Laravel project based on https://github.com/AsyrafHussin/laravel-boilerplate-v2';
@@ -13,7 +14,7 @@ class Laranew extends Command {
 
   async run() {
     console.log(figlet.textSync('Laranew'));
-    console.log('v0.0.6 by Asyraf Hussin \n');
+    console.log(`v${version} by Asyraf Hussin \n`);
 
     const {argv} = this.parse(Laranew);
 
