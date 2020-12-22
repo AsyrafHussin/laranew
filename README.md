@@ -12,7 +12,8 @@ Generate Laravel project based on [Laravel Boilerplate v2](https://github.com/As
 [![License](https://img.shields.io/npm/l/laranew.svg)](https://github.com/AsyrafHussin/laranew/blob/master/package.json)
 
 <!-- toc -->
-* [laranew](#laranew)
+
+- [laranew](#laranew)
 <!-- tocstop -->
 
 ## Getting Started
@@ -26,3 +27,11 @@ npm install -g laranew
 ```bash
 laranew [PROJECT]
 ```
+
+## Contributing
+
+If you spot any errors, typos or missing information, please submit a pull request.
+
+## License
+
+ISC. See [LICENSE](LICENSE) for more details.
