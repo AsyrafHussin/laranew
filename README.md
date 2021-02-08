@@ -12,8 +12,7 @@ Generate Laravel project based on [Laravel Boilerplate v2](https://github.com/As
 [![License](https://img.shields.io/npm/l/laranew.svg)](https://github.com/AsyrafHussin/laranew/blob/master/package.json)
 
 <!-- toc -->
-
-- [laranew](#laranew)
+* [laranew](#laranew)
 <!-- tocstop -->
 
 ## Getting Started
