@@ -20,7 +20,7 @@ class Laranew extends Command {
 
     const projectName = argv[0] ?? 'project';
 
-    exec(`git clone https://github.com/AsyrafHussin/laravel-boilerplate-v2.git ${projectName}`);
+    exec(`git clone https://github.com/AsyrafHussin/laravel-boilerplate-v3.git ${projectName}`);
     cd(`${projectName}`);
     exec('./setup.sh --color=always');
   }
