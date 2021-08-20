@@ -1,7 +1,7 @@
 {
   "name": "laranew",
   "description": "Laravel Installer by Asyraf Hussin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Asyraf Hussin @AsyrafHussin",
   "bin": {
     "laranew": "bin/run"
